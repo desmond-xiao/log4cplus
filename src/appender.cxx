@@ -25,6 +25,7 @@
 #include <log4cplus/helpers/stringhelper.h>
 #include <log4cplus/spi/factory.h>
 #include <log4cplus/spi/loggingevent.h>
+#include <log4cplus/thread/syncprims-pub-impl.h>
 
 using namespace log4cplus;
 using namespace log4cplus::helpers;
